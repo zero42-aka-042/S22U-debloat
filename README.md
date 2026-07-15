@@ -1,13 +1,15 @@
 # S22U-debloat
-This is a extreme debloat guide for samsung galaxy S22 ultra
+This is a extreme debloat guide for the samsung galaxy S22 ultra
 
 
 # WARNING ⚠️ 
-This is an extreme debloat intended for experienced users. It removes core Samsung applications (Camera, Gallery, Dialer, Contacts, Setup Wizard, etc.) and may break stock functionality. Use only if you understand how to recover your device.
+This is a extreme debloat intended for experienced users. It removes core Samsung applications (Camera, Gallery, Dialer, Contacts, Setup Wizard, etc.) and may break stock functionality. Use only if you understand how to recover your device.
 
-```tested on:
-samsung galaxy S22 ultra with Beyond rom, android 16
-```
+**Tested on**
+
+- Samsung Galaxy S22 Ultra
+- BeyondROM
+- Android 16
 
 ## Overview
 
@@ -42,7 +44,7 @@ Several core applications are also removed, including Samsung Camera, Gallery, D
 
 ## Usage
 
-download the JSON configuration from releases and import into Canta, review the package list before uninstalling.
+Download the JSON configuration from the Releases page and import into Canta, review the package list before uninstalling.
 
 Package removal is performed for the current user and is generally reversible.
 
@@ -66,8 +68,8 @@ The maintainer assumes that users understand the implications of removing system
 
 Pull requests correcting package classifications, dependencies or compatibility issues are welcome.
 
+## Useful Links
 
-# Useful links:
-https://github.com/samolego/Canta - Canta debloater
-https://github.com/RikkaApps/Shizuku - Shizuku
-https://f-droid.or - Fdroid
+- [Canta](https://github.com/samolego/Canta)
+- [Shizuku](https://github.com/RikkaApps/Shizuku)
+- [F-Droid](https://f-droid.org)
