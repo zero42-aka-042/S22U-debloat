@@ -4,7 +4,11 @@ This is an extreme debloat guide for the samsung galaxy S22 ultra
 
 
 ## WARNING ⚠️ 
-This is an extreme debloat intended for experienced users. It removes core Samsung applications (Camera, Gallery, Dialer, Contacts, Setup Wizard, etc.) and may break stock functionality. Use only if you understand how to recover your device.
+This configuration is intended for advanced users.
+
+It may remove functionality expected by One UI, Samsung applications or third-party software. Compatibility with OTA updates, Knox features, banking applications and Samsung ecosystem services is not guaranteed.
+
+The maintainer assumes that users understand the implications of removing system packages.
 
 **Tested on**
 
@@ -45,7 +49,7 @@ Several core applications are also removed, including Samsung Camera, Gallery, D
 
 ## Usage
 
-Download the JSON configuration from the Releases page and import into Canta, review the package list before uninstalling.
+Download the JSON configuration from the Releases page and import it into Canta. Review the package list before uninstalling any packages.
 
 Package removal is performed for the current user and is generally reversible.
 
@@ -57,13 +61,6 @@ Packages removed with `pm uninstall --user` or Canta can usually be restored usi
 cmd package install-existing <package_name>
 ```
 
-## Warning
-
-This configuration is intended for advanced users.
-
-It may remove functionality expected by One UI, Samsung applications or third-party software. Compatibility with OTA updates, Knox features, banking applications and Samsung ecosystem services is not guaranteed.
-
-The maintainer assumes that users understand the implications of removing system packages.
 
 ## Contributing
 
