@@ -71,3 +71,7 @@ Pull requests correcting package classifications, dependencies or compatibility 
 - [Canta](https://github.com/samolego/Canta)
 - [Shizuku](https://github.com/RikkaApps/Shizuku)
 - [F-Droid](https://f-droid.org)
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the `LICENSE` file for details.
