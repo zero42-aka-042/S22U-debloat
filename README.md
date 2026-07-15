@@ -1,6 +1,6 @@
 # Samsung Galaxy S22 Ultra Debloat
 
-This is a extreme debloat guide for the samsung galaxy S22 ultra
+This is an extreme debloat guide for the samsung galaxy S22 ultra
 
 
 ## WARNING ⚠️ 
