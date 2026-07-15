@@ -1,9 +1,10 @@
-# S22U-debloat
+# Samsung Galaxy S22 Ultra Debloat
+
 This is a extreme debloat guide for the samsung galaxy S22 ultra
 
 
 ## WARNING ⚠️ 
-This is a extreme debloat intended for experienced users. It removes core Samsung applications (Camera, Gallery, Dialer, Contacts, Setup Wizard, etc.) and may break stock functionality. Use only if you understand how to recover your device.
+This is an extreme debloat intended for experienced users. It removes core Samsung applications (Camera, Gallery, Dialer, Contacts, Setup Wizard, etc.) and may break stock functionality. Use only if you understand how to recover your device.
 
 **Tested on**
 
